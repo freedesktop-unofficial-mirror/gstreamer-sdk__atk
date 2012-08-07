@@ -1,3 +1,45 @@
+Changes in version 2.4.0:
+=========================
+*
+* Bug 593220: Some typos in atktable signals (docs)
+* Updated Hindi and Simplified Chinese translation
+
+
+Changes in version 2.3.95:
+=========================
+*
+* Bug 671857: Add deprecation attributes to deprecated functions
+* Updated Visual Studio configuration files
+* Updated Khmer, Malayalam and Bengali Translations
+
+Changes in version 2.3.93:
+==========================
+*
+* Revert "Using abstract atk_object_get_name to check accessible-name
+*  notification" change made on 2.3.93
+*  Related to mozilla bug: https://bugzilla.mozilla.org/show_bug.cgi?id=733712
+
+Changes in version 2.3.91:
+==========================
+*
+* Bug 665549: add sanity-check of atk_text_get_text
+* Bug 668441: atk_action_get_keybinding docs are confusing and need
+*  updating
+* Using abstract atk_object_get_name to check accessible-name
+*  notification
+* Updated Belarusian, Estonian, Hungarian, Turkish, Norwegian,
+*  Ukranian and Uyghur translations
+
+
+Changes in version 2.3.3:
+=========================
+*
+* Bug 665870: About reducing accessible-name, accessible-description
+*  change notifications
+* Minor documentation updates
+* Updated Visual Studio configuration files
+* Updated Simplified Chinese and Vietnamese translations
+
 Changes in version 2.2.0:
 =========================
 *
